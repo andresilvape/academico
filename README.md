@@ -12,7 +12,7 @@ O Sistema baseia-se na inserção dos eventos e, não elencado aqui, no relacion
 ![Alt text](https://github.com/andresilvape/eventos/blob/master/docs/eventos.JPG?raw=true "Title")
 
 ## Layout mobile
-![Alt text](https://github.com/andresilvape/eventos/blob/master/docs/eventos.JPG?raw=true "Title")
+![Alt text](https://github.com/andresilvape/eventos/blob/master/docs/mobile.JPG?raw=true")
 
 
 # Tecnologias utilizadas
